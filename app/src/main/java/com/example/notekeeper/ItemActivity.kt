@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.notekeeper.databinding.ActivityItemBinding
 import com.google.android.material.snackbar.Snackbar
-import com.jwhh.notekeeper.CourseRecyclerAdapter
+import com.example.notekeeper.CourseRecyclerAdapter
 import kotlinx.android.synthetic.main.activity_item.*
 import kotlinx.android.synthetic.main.app_bar_item.*
 import kotlinx.android.synthetic.main.content_item.*
